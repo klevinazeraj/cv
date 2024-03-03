@@ -1,2 +1,1 @@
-# cv
-CISC 4900 project utilizing Computer Vision to solve a problem
+An app for kids to learn and test their abilities on different objects.
